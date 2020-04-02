@@ -1,9 +1,9 @@
 # atxshortline
-A webpage and SignalR server for realtime information on grocery store status in the era of the corona virus
+A webpage and SignalR server for realtime information on Austin grocery store status in the era of the corona virus
 
-Here in the age or the CoronaVirus, I thought it might be useful 
+I thought it might be useful 
 if there was an method where people could check in realtime 
-if their local grocery store was very busy. Stores like HEB do a great
+if their local Austin grocery store was very busy. Stores like HEB do a great
 job of helping customers maintain social distancing by limiting the
 number of customers in the store at any one time.  But it would
 be better if people could avoid having to standing together in long lines
