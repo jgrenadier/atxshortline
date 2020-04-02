@@ -17,10 +17,14 @@ busy" and discourage postings like "They have wipes, so lets mob the store".
 I was able to go from idea to working prototype deployed in the cloud.
 As in most software, the first 90% is easy. The rest takes alot more time.
 In this case, the first implementation...
+
      * Only shows people's new posts you start the app. No historical database.
+     
      * Is a webpage not an app. However it does work reasonably well
        on my android phone chrome browser both in portrait and landscape mode.
+       
      * The fonts are a bit small.
+     
      * only lets you select a two austin store names for now but the
        user can type in any name they like.
 
@@ -32,3 +36,4 @@ Here's a link:  https://www.atxshortline.info
 
 Eventually, I'll put the code for this project up here on Github.
 For now, this is placeholder describes the project.
+
