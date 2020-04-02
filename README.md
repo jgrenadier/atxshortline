@@ -1,5 +1,5 @@
 # atxshortline
-A webpage and SignalR server for realtime information on Austin grocery store status in the era of the corona virus
+A webpage and SignalR server for realtime information on Austin grocery store status
 
 I thought it might be useful 
 if there was an method where people could check in realtime 
